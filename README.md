@@ -1,2 +1,9 @@
-# mini-word-counter-helper-3
-A simple word counter project
+# Word Counter
+
+A simple word counter project.
+\n
+## Getting Started
+
+```bash
+python word.py
+```
